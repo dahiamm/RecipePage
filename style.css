@@ -1,14 +1,14 @@
 body {
-    background-color: #f2e5d8;
+    background-color:  hsl(30, 54%, 90%);
     color: #565451;
 }
 .recipe-container {
-    background-color: #fefdfd;
+    background-color: hsl(0, 0%, 100%);
     font-family: "Outfit"
 }
 h1 {
     font-family: "Young Serif", serif;
-    color: #363231;
+    color: hsl(24, 5%, 18%);
 }
 
 img {
@@ -17,16 +17,16 @@ img {
 }
 
 .preparation {
-    background-color: #fff7fc;
+    background-color: hsl(330, 100%, 98%);
     padding: 20px;
     margin: 30px;
 }
 .preparation h3 {
-    color: #6d2e46;
+    color: hsl(332, 51%, 32%);
 }
 .preparation span,
 .instructions span {
-    color: #635c5a;
+    color: hsl(30, 10%, 34%);
     font-weight: 700;
 }
 
@@ -34,7 +34,7 @@ img {
 .instructions h2,
 .nutrition h2 {
     font-family: "Young Serif", serif;
-    color: #814b3b;
+    color: hsl(14, 45%, 36%);
 }
 
 .attribution { 
