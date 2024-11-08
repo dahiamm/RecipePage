@@ -1,0 +1,46 @@
+body {
+    background-color: #f2e5d8;
+    color: #565451;
+}
+.recipe-container {
+    background-color: #fefdfd;
+    font-family: "Outfit"
+}
+h1 {
+    font-family: "Young Serif", serif;
+    color: #363231;
+}
+
+img {
+    width: 500px;
+    margin: 30px;
+}
+
+.preparation {
+    background-color: #fff7fc;
+    padding: 20px;
+    margin: 30px;
+}
+.preparation h3 {
+    color: #6d2e46;
+}
+.preparation span,
+.instructions span {
+    color: #635c5a;
+    font-weight: 700;
+}
+
+.ingredients h2,
+.instructions h2,
+.nutrition h2 {
+    font-family: "Young Serif", serif;
+    color: #814b3b;
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
