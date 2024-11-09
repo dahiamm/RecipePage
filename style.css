@@ -104,7 +104,7 @@ p {
     color: hsl(228, 45%, 44%);
 }
 
-@media (max-width: 375px) {
+@media (max-width: 645px) {
     body {
         margin: 0; 
         padding: 0;
