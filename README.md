@@ -31,7 +31,7 @@ En la carpeta `/design`, se encuentran los diseños en formato JPG para referenc
 1. Clona el repositorio en tu máquina local.
 2. Abre el archivo `index.html` en tu navegador para ver el resultado.
 
-También puedes ver el proyecto en línea a través de Netlify [[(proyecto desplegado)]((https://recipepage-main.netlify.app))].
+También puedes ver el proyecto en línea a través de Netlify [[[(proyecto desplegado)]((https://recipepage-main.netlify.app))]](https://recipepage-main.netlify.app).
 
 ## Conclusiones y aprendizajes
 
